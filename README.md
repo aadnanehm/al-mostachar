@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34819218/README.md)
-# المستشار – Al Mostachar
+المستشار – Al Mostachar
 
 تطبيق أندرويد (Flutter) للمعلومات القانونية المغربية. **المرحلة 1: نموذج أولي تجريبي.**
 Application Android (Flutter) d'information juridique marocaine. **Étape 1 : prototype de démonstration.**
